@@ -14,6 +14,7 @@ This meetup is for you who wants to learn how to best take advantage of specific
 ## Chapter summaries for the Study Group Python for Data Analysis (Wes McKinney)
 
 - [Chapters 1 & 2](https://github.com/alm-neagu/pyladies_sthlm_study_group/blob/main/Chapters%201%20%26%202.ipynb)
+- [Chapter 3](https://github.com/alm-neagu/pyladies_sthlm_study_group/blob/main/Chapter%203.ipynb)
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alm-neagu/pyladies_sthlm_study_group/HEAD)
