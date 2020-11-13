@@ -5,3 +5,5 @@ seaborn
 statsmodels
 datetime
 bisect
+collections
+jupyter_contrib_nbextensions
