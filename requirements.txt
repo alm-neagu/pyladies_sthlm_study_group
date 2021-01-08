@@ -8,3 +8,4 @@ pandas-datareader
 plotly
 tables
 xlrd
+openpyxl
