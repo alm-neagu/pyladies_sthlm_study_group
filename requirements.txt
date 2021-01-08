@@ -6,3 +6,4 @@ statsmodels
 jupyter_contrib_nbextensions
 pandas-datareader
 plotly
+tables
