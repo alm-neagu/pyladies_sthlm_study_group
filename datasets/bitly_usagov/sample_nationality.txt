@@ -1,0 +1,11 @@
+Sample,Nationality,Handedness
+1, USA, Right-handed
+2, Japan, Left-handed
+3, USA, Right-handed
+4, Japan, Right-handed
+5, Japan, Left-handed
+6, Japan, Right-handed
+7, USA, Right-handed
+8, USA, Left-handed
+9, Japan, Right-handed
+10, USA, Right-handed
