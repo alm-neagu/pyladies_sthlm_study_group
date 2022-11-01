@@ -27,3 +27,6 @@ This meetup is for you who wants to learn how to best take advantage of specific
 - [Chapter 13](https://github.com/alm-neagu/pyladies_sthlm_study_group/blob/main/Chapter%2013.ipynb)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alm-neagu/pyladies_sthlm_study_group/HEAD)
+
+
+
